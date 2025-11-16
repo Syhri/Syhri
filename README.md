@@ -26,27 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-*Berikut adalah beberapa proyek yang sudah saya sematkan di profil saya. (Jangan ragu untuk mengedit deskripsinya!)*
-
-* **[Aplikasi-Catatan-Pengeluaran](https://github.com/Syhril/Aplikasi-Catatan-Pengeluaran)**
-    * *Deskripsi: Sebuah aplikasi (fork) untuk ... [Tambahkan deskripsimu di sini!]*
-
-* **[Untad Siakad](https://github.com/Syhril/Untad-Siakad)**
-    * *Deskripsi: Proyek (fork) yang berkaitan dengan Sistem Informasi Akademik (SIAKAD) Untad.*
-
-* **[Timer-Pomodoro](https://github.com/Syhril/Timer-Pomodoro)**
-    * *Deskripsi: Aplikasi timer Pomodoro sederhana menggunakan JavaScript untuk manajemen waktu.*
-
-* **[Palindrome_Checker](https://github.com/Syhril/Palindrome_Checker)**
-    * *Deskripsi: Program web sederhana untuk mengecek apakah sebuah kata adalah palindrom.*
-
-* **[e_commerce](https://github.com/Syhril/e_commerce)**
-    * *Deskripsi: Latihan dasar membuat halaman depan untuk situs e-commerce.*
-
----
-
 ### 📊 GitHub Stats
 
 ![Syahril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syhril&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
