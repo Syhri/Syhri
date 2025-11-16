@@ -28,7 +28,8 @@
 
 ### 📊 GitHub Stats
 
-![Syahril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syhril&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+![Syahril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syhril&show_icons=true&theme=vision-friendly-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syhril&layout=compact&theme=vision-friendly-dark)
 
 ---
