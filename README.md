@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Fitra (Syahril Fitrawan Abadi)
 
-**Seorang pengembang web yang sedang dalam proses pengerjaan dan pengembangan diri.**
-> "Saya ingin menjadi programmer handal demi menggapai cita-cita."
+**Seorang pengembang web yang sedang dalam proses pengembangan diri.**
+> "Saya ingin menjadi programmer handal."
 
 ---
 
